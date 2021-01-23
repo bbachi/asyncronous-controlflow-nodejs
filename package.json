@@ -1,0 +1,24 @@
+{
+  "name": "asyncronous-controlflow-nodejs",
+  "version": "1.0.0",
+  "description": "Undersatdning Asyncronous nature in NodeJS applications",
+  "main": "async.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbachi/asyncronous-controlflow-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbachi/asyncronous-controlflow-nodejs/issues"
+  },
+  "homepage": "https://github.com/bbachi/asyncronous-controlflow-nodejs#readme",
+  "dependencies": {
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
